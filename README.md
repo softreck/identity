@@ -1,11 +1,10 @@
 Hello in [OSS](https://en.wikipedia.org/wiki/Open-source_software) World!
 
 We are mostly focused on PHP, JAVA, JavaScript, Python, Bash
-Our projects are here:
-[Welcome to Portfolio of Softreck Company | softreck.dev](https://softreck.dev/)
 
-Feel free to use our code, 
-We spent a lot of hours to give our ideas some life, this is our goal, to give birth some ideas, even it's not perfect.
+Our projects are here: [Welcome to Portfolio of Softreck Company | softreck.dev](https://softreck.dev/)
+
+Feel free to use our code ... We spent a lot of hours to give our ideas some life, this is our goal, to give birth some ideas, even it's not perfect.
 
 
 [![Github](https://img.shields.io/github/followers/softreck?label=Follow&style=social)](https://github.com/softreck)
