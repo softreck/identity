@@ -7,6 +7,12 @@ Our projects are here: [Welcome to Portfolio of Softreck Company | softreck.dev]
 
 Feel free to use our code ... We spent a lot of hours to give our ideas some life, this is our goal, to give birth some ideas, even it's not perfect.
 
+Leadership Through Software Development
++ [pro2030 - Softreck’s vision for 2030](https://pro2030.com/)
++ [pro2040 - Softreck’s vision for 2040](https://softreck.github.io/pro2040/)
++ [pro2050 - Softreck’s vision for 2050](https://pro2050.com/)
+
+
 ### Why Estonia?
 
 In [2014](https://en.wikipedia.org/wiki/E-Residency_of_Estonia) Estonia launched its [eResidency program](https://e-resident.gov.ee/), allowing any non-Estonian to easily start a software company. In addition, the accounting firm [Xolo](https://www.xolo.io/) makes company management a breeze.
