@@ -12,11 +12,34 @@ Feel free to use our code ... We spent a lot of hours to give our ideas some lif
 
 Leadership Through Software Development.
 
++ [PL] Przywództwo poprzez rozwój oprogramowania.
+
 ## Vision
 
 We personalize the nearest reality, so You can feel more confident, everywhere.
 
++ [PL] Personalizujemy najbliższą rzeczywistość, więc możesz (po)czuć się pewnie, w każdej sytuacji.
+
+
 ## Wartości
+
++ Otwartość, czyli dążenie do transparentności w intencji i działaniu
++ Harmonia, czyli dążenie do celu w zgodzie z otoczeniem, ograniczanie strat energii
++ Modularyzacja, czyli rozwój poprzez podział i reużycie owoców wcześniejszej pracy
+
+## Jednostki
+
+## Otwartość
+
+Otwartość mierzymy w ilości zbyt niewykonanych w czasie zadań,
+Czym mniej wiemy tym trudniej oszacować czas
+im większe zadania tym trudniej, więc w naturalny sposób konieczne jest planowanie jak najmniejszych, sprecyzowanych zadań.
+
+
+Harmonia jest tym większa im mniejsze straty ponosimy w określonym czasie i środowisku.
+straty - zyski / 100 = wartość w procentach, na ile harmonijni jesteśmy
+
+
 
 
 ## Values
