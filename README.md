@@ -7,6 +7,41 @@ Our projects are here: [Welcome to Portfolio of Softreck Company | softreck.dev]
 
 Feel free to use our code ... We spent a lot of hours to give our ideas some life, this is our goal, to give birth some ideas, even it's not perfect.
 
+
+## Mission
+
+Leadership Through Software Development.
+
+## Vision
+
+We personalize the nearest reality, so You can feel more confident, everywhere.
+
+## Wartości
+
+
+## Values
+
+### Openess
+
+open source and open mind projects, open knowledge, proven and repeatable
+
+
+### harmony
+
+Leadership modeled on nature and in harmony with nature
+#Entrepreneurial
+
+We get to know your business and add value where you need it the most
+#User focus
+
+We learn from user feedback, and we know the user always wins
+#Agility
+
+We prefer prototyping and testing to writing specifications
+#No jargon
+
+We ensure our digital expertise is accessible and easy to understand
+
 Leadership Through Software Development
 + [pro2030 - Softreck’s vision for 2030](https://pro2030.com/)
 + [pro2040 - Softreck’s vision for 2040](https://softreck.github.io/pro2040/)
