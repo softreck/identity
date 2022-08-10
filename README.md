@@ -49,6 +49,7 @@ Stopień modularyzacji określa reużycie
 
 
 ## Values
+https://softreck.com/our-values/
 
 ### Openess
 
