@@ -29,15 +29,21 @@ We personalize the nearest reality, so You can feel more confident, everywhere.
 
 ## Jednostki
 
-## Otwartość
+### Otwartość
 
 Otwartość mierzymy w ilości zbyt niewykonanych w czasie zadań,
 Czym mniej wiemy tym trudniej oszacować czas
 im większe zadania tym trudniej, więc w naturalny sposób konieczne jest planowanie jak najmniejszych, sprecyzowanych zadań.
 
+### Harmonia
 
 Harmonia jest tym większa im mniejsze straty ponosimy w określonym czasie i środowisku.
 straty - zyski / 100 = wartość w procentach, na ile harmonijni jesteśmy
+
+
+### Modularyzacja
+
+Stopień modularyzacji określa reużycie
 
 
 
